@@ -19,4 +19,3 @@ Ana es una usuaria con experiencia intermedia que ya tiene una rutina, pero debi
 **Descripción**:  
 Andrés es un usuario que comenzó como principiante y ha estado entrenando durante varios meses. Ahora siente que ha progresado y desea actualizar su nivel de experiencia a intermedio. Su deseo es obtener una rutina más avanzada que lo desafíe y le permita seguir mejorando en su físico.
 
-

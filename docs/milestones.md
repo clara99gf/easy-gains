@@ -1,26 +1,23 @@
 # Milestones del Proyecto
 
-## Milestone 0: Estructura Inicial del Proyecto
+## Milestone 0: Definición de la Estructura Inicial del Proyecto
 
 ### Descripción
-El objetivo de este milestone es definir la estructura conceptual del proyecto, identificando los principales componentes del sistema a partir de las historias de usuario. Se seguirán buenas prácticas de diseño, como la separación de responsabilidades, para asegurar que el proyecto sea escalable y fácil de mantener.
+Este milestone establece la estructura conceptual del proyecto a partir de las Historias de Usuario **HU0001**, **HU002** y **HU003**. Se realizará un análisis detallado de las HUs para identificar los elementos clave del dominio del problema. Este análisis permitirá definir las entidades y relaciones necesarias que formarán la base para un desarrollo coherente y organizado del sistema.
 
 ### Producto Mínimamente Viable (PMV)
-El PMV consistirá en un esquema organizado que represente los principales componentes del sistema, sirviendo como base para el desarrollo futuro.
+El PMV consistirá en una descripción del modelo inicial del dominio que refleje las entidades clave y sus interacciones. Este modelo proporcionará una base clara y comprensible que guiará el desarrollo futuro del proyecto.
 
 ### Requisitos de Validación
 
-1. **Identificación de Componentes:**
-   - Analizar las historias de usuario para determinar los componentes y áreas funcionales clave del sistema.
+1. **Representación del Dominio:**
+   - Se considerará validado si el modelo representa adecuadamente las entidades clave del dominio y sus relaciones, basándose en las Historias de Usuario.
 
-2. **Estructura Modular:**
-   - Definir una estructura organizada que separe claramente las responsabilidades del sistema y permita su crecimiento sin grandes cambios estructurales.
+2. **Claridad y Comprensibilidad del Modelo:**
+   - La representación del modelo debe ser clara y comprensible para otros desarrolladores. Además, otro desarrollador debe ser capaz de entender el modelo y cómo las entidades interactúan entre sí, facilitando la implementación de funciones adicionales en etapas posteriores.
 
-### Historias de Usuario Relevantes
-
-- **HU001**: Rutina Personalizada
-- **HU002**: Rutina Flexible
-- **HU003**: Ajustar Nivel de Entrenamiento
+3. **Separación de Responsabilidades:**
+   - El diseño debe reflejar una estructura modular, permitiendo futuros ajustes sin grandes alteraciones en la organización del proyecto.
 
 ---
 
@@ -39,11 +36,6 @@ Los usuarios podrán indicar su nivel de experiencia y la cantidad de días que 
 2. **Persistencia de Información**:
    - Asegurar que los datos proporcionados se almacenan correctamente para su uso posterior en la generación de las rutinas de entrenamiento.
 
-### Historias de Usuario Relevantes
-- **HU001**: Rutina Personalizada
-- **HU002**: Rutina Flexible
-- **HU003**: Ajustar Nivel Entrenamiento
-
 ---
 
 ## Milestone 2: Generación de Rutinas de Entrenamiento Personalizadas
@@ -60,9 +52,4 @@ El sistema debe ser capaz de generar rutinas de entrenamiento que se ajusten a l
    
 2. **Actualización Dinámica**:
    - Comprobar que al modificar el nivel de experiencia o la cantidad de días disponibles, el sistema ajusta automáticamente la rutina generada.
-
-### Historias de Usuario Relevantes
-- **HU001**: Rutina Personalizada
-- **HU002**: Rutina Flexible
-- **HU003**: Ajustar Nivel de Entrenamiento
 

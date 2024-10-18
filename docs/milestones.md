@@ -3,7 +3,7 @@
 ## Milestone 0: Definición de la Estructura Inicial del Proyecto
 
 ### Descripción
-Este milestone establece la estructura conceptual del proyecto a partir de las Historias de Usuario. Se realizará un análisis detallado de las HUs **HU0001**, **HU002** y **HU003** para identificar los elementos clave del dominio del problema. Este análisis permitirá definir las entidades y relaciones necesarias que formarán la base para un desarrollo coherente y organizado del sistema.
+Este milestone establece la estructura conceptual del proyecto a partir de las Historias de Usuario. Se realizará un análisis detallado de las HUs **HU001**, **HU002** y **HU003** para identificar los elementos clave del dominio del problema. Este análisis permitirá definir las entidades y relaciones necesarias que formarán la base para un desarrollo coherente y organizado del sistema.
 
 ### Producto Mínimamente Viable (PMV)
 El PMV consistirá en una descripción del modelo inicial del dominio que refleje las entidades clave y sus interacciones. Este modelo proporcionará una base clara y comprensible que guiará el desarrollo futuro del proyecto.
@@ -11,7 +11,7 @@ El PMV consistirá en una descripción del modelo inicial del dominio que reflej
 ### Requisitos de Validación
 
 1. **Representación del Dominio:**
-   - Se considerará validado si el modelo representa adecuadamente las entidades clave del dominio y sus relaciones, basándose en las Historias de Usuario.
+   - Se considerará validado si el modelo representa adecuadamente las entidades clave del dominio y sus relaciones, basándose en las Historias de Usuario mencionadas.
 
 2. **Claridad y Comprensibilidad del Modelo:**
    - La representación del modelo debe ser clara y comprensible para otros desarrolladores. Además, otro desarrollador debe ser capaz de entender el modelo y cómo las entidades interactúan entre sí, facilitando la implementación de funciones adicionales en etapas posteriores.

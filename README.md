@@ -20,15 +20,6 @@ El objetivo de **easyGains** es proporcionar una solución estructurada que cons
 ## Licencia
 Este proyecto está bajo la licencia [GNU General Public License v3.0](./LICENSE).
 
-## Configuración del Entorno
-Para configurar el entorno de desarrollo de **easyGains**, se han llevado a cabo los siguientes pasos:
-
-- **Creación de Clave SSH**: Se ha generado una clave SSH para establecer una conexión segura con GitHub. Consulta la captura en [creacion_clave.png](./configuracion_entorno/creacion_clave.png).
-  
-- **Subida de Clave a GitHub**: Después de crear la clave, se ha subido a GitHub utilizando el comando `ssh-add`. Consulta la captura en [subida_clave.png](./configuracion_entorno/subida_clave.png).
-
-- **Configuración de Nombre y Correo**: Se han configurado las variables globales de usuario (nombre y correo electrónico) para que Git pueda asociar correctamente los commits. Consulta la captura en [nombre_correo.png](./configuracion_entorno/nombre_correo.png).
-
 ## Documentación Adicional
 
 ### Milestones

@@ -6,7 +6,7 @@
 Este milestone establece la estructura conceptual del proyecto a partir de las Historias de Usuario. Se realizará un análisis detallado de las HUs **HU001**, **HU002** y **HU003** para identificar los elementos clave del dominio del problema. Este análisis permitirá definir las entidades y relaciones necesarias que formarán la base para un desarrollo coherente y organizado del sistema.
 
 ### Producto Mínimamente Viable (PMV)
-El PMV consistirá en una descripción del modelo inicial del dominio que refleje las entidades clave y sus interacciones. Este modelo proporcionará una base clara y comprensible que guiará el desarrollo futuro del proyecto.
+El PMV consistirá en una descripción del modelo inicial del dominio del problema. Este modelo proporcionará una base clara y comprensible que guiará el desarrollo futuro del proyecto.
 
 ### Requisitos de Validación
 

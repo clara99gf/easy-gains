@@ -3,20 +3,21 @@
 ## Milestone 0: Estructura Inicial del Proyecto
 
 ### Descripción
-Este milestone consiste en definir la estructura base del proyecto que permita su desarrollo y escalabilidad. Se analizarán las historias de usuario relevantes para identificar los principales componentes del sistema. A partir de esto, se generará una estructura inicial del código para garantizar la modularidad, escalabilidad y mantenibilidad del proyecto.
+El objetivo de este milestone es definir la estructura conceptual del proyecto, identificando los principales componentes del sistema a partir de las historias de usuario. Se seguirán buenas prácticas de diseño, como la separación de responsabilidades, para asegurar que el proyecto sea escalable y fácil de mantener.
 
 ### Producto Mínimamente Viable (PMV)
-Se presentará una estructura inicial del proyecto, que servirá como base para los desarrollos futuros. El PMV debe reflejar una organización modular y clara, facilitando su expansión conforme a las necesidades.
+El PMV consistirá en un esquema organizado que represente los principales componentes del sistema, sirviendo como base para el desarrollo futuro.
 
 ### Requisitos de Validación
-1. **Análisis de Historias de Usuario**: 
-   - Se analizarán las historias de usuario para identificar los requisitos iniciales del sistema y reflejar estos en la estructura del proyecto.
-   
-2. **Estructura del Proyecto**: 
-   - Se validará que la estructura sigue principios de modularidad, separando la lógica del negocio, la interfaz de usuario, y el almacenamiento de datos.
-   - Debe ser escalable y fácil de mantener.
+
+1. **Identificación de Componentes:**
+   - Analizar las historias de usuario para determinar los componentes y áreas funcionales clave del sistema.
+
+2. **Estructura Modular:**
+   - Definir una estructura organizada que separe claramente las responsabilidades del sistema y permita su crecimiento sin grandes cambios estructurales.
 
 ### Historias de Usuario Relevantes
+
 - **HU001**: Rutina Personalizada
 - **HU002**: Rutina Flexible
 - **HU003**: Ajustar Nivel de Entrenamiento

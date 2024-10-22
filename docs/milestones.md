@@ -1,23 +1,15 @@
 # Milestones del Proyecto
 
-## Milestone 0: Configuración Inicial del Sistema
+## Milestone 0: Preparación Inicial
 
 ### Producto Mínimamente Viable (PMV)
-El sistema debe estar configurado correctamente, con todas las dependencias operativas (bases de datos, librerías, servicios, etc.) y listo para arrancar sin errores. Esta fase se enfoca en preparar el entorno técnico, sin interacción con usuarios ni generación de rutinas, pero asegurando que todo está listo para los siguientes hitos.
-
-Se seguirán buenas prácticas de desarrollo, como la correcta gestión de dependencias, la organización modular del código y la implementación de mecanismos de control de errores para asegurar una base estable y escalable.
-
-Se debe establecer la base técnica necesaria para abordar la [historia de usuario HU001](https://github.com/clara99gf/easy-gains/issues/2), en la que Carlos, un usuario principiante, podrá recibir una rutina personalizada basada en su nivel de experiencia y días disponibles. Para ello, el sistema debe estar correctamente configurado y listo para recolectar y almacenar los datos requeridos en los próximos hitos.
+Se realizará la configuración técnica necesaria para abordar la [historia de usuario HU001](https://github.com/clara99gf/easy-gains/issues/2). Se configurará un entorno de desarrollo con todas las dependencias necesarias instaladas. La estructura básica de la base de datos estará lista para almacenar información en las próximas fases.
 
 ### Requisitos de Validación
 
-1. **Inicialización del Sistema**:
-   - Verificar que el sistema arranca correctamente en el entorno de desarrollo y producción.
-   - Confirmar que las dependencias necesarias (bases de datos, librerías) están instaladas y funcionando correctamente, siguiendo las mejores prácticas de instalación y configuración.
+1. **Verificación del Entorno de Desarrollo**: Confirmar que el entorno arranca sin errores.
 
-2. **Disponibilidad de Módulos**:
-   - Validar que los módulos para recolección de datos de usuario estarán listos para activarse en el próximo milestone.
-   - Asegurar que la base de datos está preparada para almacenar información, siguiendo buenas prácticas de diseño de bases de datos y asegurando integridad y consistencia, aunque no se recolecte ni persista información en esta fase.
+2. **Confirmación de Dependencias**: Asegurar que todas las dependencias necesarias están instaladas y funcionan correctamente.
    
 ---
 
